@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LawiOtieno
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning python and Angular
+- 💞️ I’m looking to collaborate on (...)
+- 📫 Reach me on email: lawifirst@gmail.com and phone: +254708581688 (WhatsApp)
