@@ -1,0 +1,22 @@
+{
+  "name": "lawiotieno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LawiOtieno/LawiOtieno.git"
+  },
+  "author": "LawiOtieno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LawiOtieno/LawiOtieno/issues"
+  },
+  "homepage": "https://github.com/LawiOtieno/LawiOtieno#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
